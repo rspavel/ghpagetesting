@@ -1,4 +1,5 @@
 theme: minima
+baseurl: /ghpagetesting
 defaults:
   - scope:
       path: "images"
